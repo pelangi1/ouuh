@@ -1,2 +1,6 @@
 #virtual hosts
 include conf/extra/httpd-vhosts.conf
+
+
+#############
+LoadModule vhost_alias_module modules/mod_vhost_alias.so
