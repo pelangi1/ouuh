@@ -1,0 +1,2 @@
+#virtual hosts
+include conf/extra/httpd-vhosts.conf
